@@ -1,0 +1,41 @@
+---
+title: "Jessica Hampton"
+about:
+  template: trestles
+  image: "img/avatar.jpeg"
+  image-width: 250px
+---
+
+## Employment
+
+-   **Sep 2022--present, University of Cambridge**\
+    Research Associate on *Action Research for Research Culture*
+
+-   **Jan--May 2023, University of Cambridge**\
+    Teaching Fellow in *English varieties*
+
+-   **Jan--Feb 2023, University of Liverpool**\
+    Visiting Lecturer in *Sociolinguistics of Italy*
+
+-   **Jul 2022, Edge Hill University**\
+    Summer Residential Visiting Lecturer for *English Language*
+
+-   **Mar 2020--July 2022, University of Liverpool**\
+    Research Assistant
+
+-   **Jul--Aug 2018, University of Manchester**\
+    Research Assistant
+
+-   **Jun-Dec 2016, University of Gloucestershire**\
+    Research Assistant
+
+## Education
+
+-   **PhD in Sociolinguistics, 2023**\
+    University of Liverpool, UK
+
+-   **MA in Linguistics, 2018**\
+    University of Manchester, UK
+
+-   **BA in English Language and Linguistics, 2017**\
+    University of Gloucestershire, UK

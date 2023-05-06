@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jessica Hampton"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: pubs.qmd
+
+format:
+  html:
+    theme: pulse
+    css: styles.css
+    toc: true
+
+
+
