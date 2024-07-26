@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - href: pubs.qmd
+      - href: events.qmd
 
 format:
   html:
