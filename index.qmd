@@ -5,6 +5,13 @@ about:
   image: "img/avatar.jpeg"
   image-width: 250px
 ---
+## Profile
+
+I am an environmental sociolinguist dedicated to using linguistics as a strategic tool to bring about change. Since 2016, I have been working as a research assistant, and since 2022, I have been a postdoctoral research associate. My work focuses on addressing the climate crisis by promoting new stories-to-live-by and using my academic platform to amplify the voices of marginalised communities.
+
+I thrive in interdisciplinary contexts where I aim to share my passion for linguistics while learning and opening my mind to other perspectives through knowledge exchange. This applies to both theory and methods. My expertise lies in qualitative methods, which more recently include co-creation and creative methods, but I strive for holistic approaches that combine qualitative methods with quantitative ones.
+
+I am deeply committed to the social cause of language endangerment and advocate for environmental justice through this lens. As a proud first-generation scholar, I am passionate about equality and driven by a desire to contribute to a better world for all living beings.
 
 ## Employment
 

@@ -1,0 +1,9 @@
+---
+title: "Ecosophy"
+---
+
+::: {.callout-warning title="My ecosophy" icon=false}
+My ecosophy can be summarized in one word *compassion*. Anything that fosters a sense of compassion among all living beings is something that I cherish and see as necessary to change the stories we live by. Compassion to oneself, to our loved ones and those we like less: compassion for those we do not yet know, for the birds, the plants, the tress, and the rivers – compassion for all of those with whom we share a life on this beautiful planet. 
+
+From Hampton (2022), available from <https://doi.org/10.1515/jwl-2022-0006>
+:::

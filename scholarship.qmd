@@ -1,0 +1,23 @@
+---
+title: "Scholarship"
+---
+
+::: {.callout-tip title="Roles for International Ecolinguistics Association" icon=false}
+-   Co-convenor   
+
+-   Membership Officer 
+
+-   Book Review Editor for *Language & Ecology*
+<https://www.ecoling.net>
+
+<https://www.ecolinguistics-association.org>
+
+:::
+
+::: {.callout-tip title="University Council For Languages" icon=false}
+
+-   Representative for Linguistics, Special Interest Group: Early Career Academics
+
+<https://university-council-for-languages.org/early-career-academics/>
+:::
+
