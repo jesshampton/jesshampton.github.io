@@ -1,0 +1,20 @@
+---
+title: "Organised Events"
+---
+
+-   2024 **European Migrants in the UK in the Brexit Era: Discursive Approaches**, University of Liverpool <https://www.liverpool.ac.uk/english/news/stories/title,1430884,en.php>
+
+-   2023 **Application Journey Post-PhD**, UCFL Special Interest Group Early Career Academics <https://youtu.be/f-FDq435Dfo>
+
+The University Council for Languages (UCFL) is excited to announce an online careers event tailored specifically to early career academics in Modern Languages and Linguistics. Whether you're considering academic positions or seeking alternative career paths, this workshop will provide valuable application tips and insights about job markets in academia and beyond. The event will cover topics including how to target your job search, tips for targeting your application to specific vacancies, and the diverse career possibilities available beyond traditional academic positions. Our panel includes academics Dr Jonathan Ervine (Bangor University), Dr Benjamin Dalton (Lancaster University) and Dr Nicola Thomas (Lancaster University), and careers consultant Diane Caldwell (University of Cambridge).
+
+-   2022 **IntRo to data visualisation in R for SHAPE disciplines**: a free online course funded by "Methodological Innovation and Development Award Scheme (MIDAS)", University of Liverpool. Led by Dr Stefano Coretta, University of Edinburgh <https://intro-rstats.github.io>
+
+The past two decades have seen a dramatic increase in availability of data, which has expanded the range of phenomena that can be investigated. The Humanities and Social Sciences can now benefit from such an abundance of data and integrate qualitative and quantitative methods. This workshop introduces absolute beginners to computational principles and tools of data visualisation, processing, and exploration with the statistical software R.
+
+
+-   2021 **International Conference of Ecolinguistics-- Ecolinguistics in Action: Tackling Real-World Issues **, University of liverpool <https://ice5.org> 
+
+
+The conference aims to create a dynamic and stimulating space for discussions and sharing of knowledge from across all relevant disciplines in an attempt to engage academics with different perspectives and ideas on how to use ecolinguistic research to bring about change. Ecolinguistics explores the role of language in the life-sustaining interactions of humans, other species and the physical environment.
+
