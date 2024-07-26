@@ -1,10 +1,15 @@
 ---
 title: "Publications"
 ---
+-   Guardamagna, C., **Hampton, J.**, Roccia, M., Sredanovic, D. (in press) **Microagressions and Impoliteness at the crossroad: EU academics in the UK facing hostility in the Brexit age.** Journal of Language Aggression and Conflict.
 
-- Hampton, J. & Ioppolo, R., Abel, L., Etheridge, M., Tal-Perry, N. (2024). **Exploring the use of Resume for Research and Innovation Narrative CVs in live postdoc recruitments**.
+-   Hampton, J. (under review) **Unveiling voices of Emilian and Esperanto speakers in their experience of representing, perceiving,and living language.** Book chapter in edited volume.
 
--   Hampton, J. (2023). **"wRapping" traditions into modernity: the negotiation of Emilian and Esperanto identities in YouTube rap songs**.
+-   **Hampton, J.** & Coretta, S. (under review) **Language practices of Emilian and Esperanto communities: spaces of use, explicit language attitudes and self-reported competence. Languages.**
+
+-   Ioppolo, R., **Hampton, J.**, Abel, L., Etheridge, M., Tal-Perry, N. (2024). **Exploring the use of Resume for Research and Innovation Narrative CVs in live postdoc recruitments**. <https://doi.org/10.17605/OSF.IO/GWA9R>
+
+-   Hampton, J. (2023). **"wRapping" traditions into modernity: the negotiation of Emilian and Esperanto identities in YouTube rap songs**. Modern Languages Open. <https://doi.org/10.3828/mlo.v0i0.449>
 
 -   Hampton, J. (2023). **Measuring attitudes: Adopting triangulation as an attempt to square the circle. Swipe up for more**. Modern Languages Open. <http://dx.doi.org/10.3828/mlo.v0i0.450>
 
@@ -12,9 +17,21 @@ title: "Publications"
 
 -   Roccia, M. & Iubini-Hampton, J. (2021). **The Stories We Live By and the stories we won't stand by: Measuring the impact of a free online course in ecolinguistics**. Journal of World Languages, 7(1), 58-79. <https://doi.org/10.1515/jwl-2021-0004>
 
--   De Cia, S., and Iubini-Hampton, J. (2020). **Debunking Rhaeto-Romance: Synchronic Evidence from Two Peripheral Northern Italian Dialect**s. Modern Languages Open, 2020(1): 7 pp. 1-18. DOI: <https://doi.org/10.3828/mlo.v0i0.309>
+-   De Cia, S., and Iubini-Hampton, J. (2020). **Debunking Rhaeto-Romance: Synchronic Evidence from Two Peripheral Northern Italian Dialect**s. Modern Languages Open, 7 pp. 1-18. DOI: <https://doi.org/10.3828/mlo.v0i0.309>
 
 ### Talks
+
+-   November 2024 -- ASMI Conference, Senate House, London: "**Telling stories of the local natural world: A path of reconnection with language and place in the Emilian context**".
+
+-   October 2024 -- Convegno Linguistic Landscape, Siena, Italy: "**Schoolscapes and the (de)construction of borders – two case studies**."
+
+-   July 2024 -- CELC 10 Language Endangerment and Revitalisation: The decade ahead, University of Cambridge: "**Comparing language attitudes, use and competence in the northern Italian speech communities of Emilian and Veneto**."
+
+-   June 2024 -- Northern Englishes Workshop 10, University of Chester: "**Coming full circle: analysing bordering practices in the construction of schoolscapes through an ecolinguistic lens**."
+
+-   June 2024 -- Linguistic Landscape 15, Wellington, New Zealand: "**Coming full circle: analysing bordering practices in the construction of schoolscapes through an ecolinguistic lens**."
+
+-   May 2024 -- CLOW4 Warsaw, Poland: "**Comparing language attitudes, use and competence in the northern Italian speech communities of Emilian and Veneto**."
 
 -   June 2023 -- XIX International Conference on Minority Languages, University of Wales: "**Measuring spaces and observing attitudes: a comparative analysis on the vitality of Emilian and Esperanto**".
 
