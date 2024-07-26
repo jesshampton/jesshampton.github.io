@@ -20,7 +20,7 @@ The past two decades have seen a dramatic increase in availability of data, whic
 :::
 
 ::: {.callout-note title="5th International Conference of Ecolinguistics. *Ecolinguistics in Action: Tackling Real-World Issues*" icon=false}
-April 2021, University of liverpool <https://ice5.org> 
+April 2021, University of Liverpool <https://ice5.org> 
 
 
 The conference aims to create a dynamic and stimulating space for discussions and sharing of knowledge from across all relevant disciplines in an attempt to engage academics with different perspectives and ideas on how to use ecolinguistic research to bring about change. Ecolinguistics explores the role of language in the life-sustaining interactions of humans, other species and the physical environment.
