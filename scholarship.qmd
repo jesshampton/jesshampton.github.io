@@ -1,8 +1,24 @@
 ---
-title: "Scholarship"
+title: "Research & Scholarship"
 ---
 
-::: {.callout-tip title="Roles for International Ecolinguistics Association" icon=false}
+::: {.callout-important title="EU Migrants Project" icon=false}
+
+Since 2019, I have been working as a Research Assistant on this timely project led by Caterina Guardamagna at the University of Liverpool. We are a small, interdisciplinary team that also includes Djordje Sredanovic from the University of Chester and Mariana Roccia from the University of Gloucestershire and the International Ecolinguistics Association.
+
+As part of this ongoing project, we interviewed around 40 Italian and Spanish academics based in the North West of England, merging our dataset with Djordje's to understand their migratory experience from a discursive perspective. Outputs include three articles (one in press at the time of writing and two ready to be submitted) and a symposium, whose proceedings are being prepared for a Special Issue and an edited volume.
+
+:::
+
+::: {.callout-important title="Polentometro Project" icon=false}
+
+In this project with Stefano Coretta and Simone De Cia, we are cconduting a first-of-its-kind survey of the vitality of the languages spoken in the north of Italy.
+
+<https://www.soscisurvey.de/polentometro/>
+
+:::
+
+::: {.callout-tip title="International Ecolinguistics Association" icon=false}
 -   Co-convenor   
 
 -   Membership Officer 

@@ -2,7 +2,29 @@
 title: "Ecosophy"
 ---
 
-::: {.callout-warning title="My ecosophy" icon=false}
+### What is an ecosophy?
+
+To me, an ecosophy is a set of guiding principles that help me feel anchored as I navigate and evolve in my analyses. I recognise that as a researcher, I am ever-changing and constantly moving, and while my ecosophy provides a sense of stability, it too is evolving, albeit more slowly. This dynamic allows me to maintain my bearings without feeling lost in the unraveling of discourse.
+
+I base my understanding of ecosophy on that of Stibbe's (2021: 78):
+
+"I realised that it’s essential for ecolinguists to reflect on the philosophical foundations
+of their criticism and establish a clear ecological philosophy (or ecosophy)
+to judge discourses against. Ecosophy is Arne Naess’s term to describe an
+explicit enumeration of values and assumptions about what matters, who matters,
+what facts about the world are to be assumed and what we should do
+(Naess 1995: 8). An ecosophy necessarily, by definition, includes consideration
+of not only humans but other species and the physical environment. Of course,
+anyone analysing texts with an ecological sensibility will have their own ecological
+philosophy, but I suggest that it’s important to reflect on it, make it explicit,
+and to develop it over time as we read more, analyse more data, and
+have more direct experience of the world."
+
+Stibbe, A. (2021). Ecolinguistics as a transdisciplinary movement and a way of life. In Allison Burkette & Tamara Warhol (eds), *Crossing Borders, Making Connections: Interdisciplinarity in Linguistics*, pp 71--88. Berlin, Boston: De Gruyter Mouton. <https://doi.org/10.1515/9781501514371>
+
+### My ecosophy
+
+::: {.callout-warning title=... icon=false}
 My ecosophy can be summarized in one word *compassion*. Anything that fosters a sense of compassion among all living beings is something that I cherish and see as necessary to change the stories we live by. Compassion to oneself, to our loved ones and those we like less: compassion for those we do not yet know, for the birds, the plants, the tress, and the rivers – compassion for all of those with whom we share a life on this beautiful planet. 
 
 From Hampton (2022), available from <https://doi.org/10.1515/jwl-2022-0006>
