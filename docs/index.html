@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.555">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -82,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -109,7 +109,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -129,7 +129,7 @@ ul.task-list li input[type="checkbox"] {
 </nav>
     </div>
 <!-- main -->
-<div class="quarto-about-trestles content">
+<div class="quarto-about-trestles">
   <div class="about-entity">
     <img src="img/avatar.jpeg" class="about-image
   rounded " style="width: 250px;">
@@ -148,6 +148,9 @@ ul.task-list li input[type="checkbox"] {
 <p>I am an environmental sociolinguist dedicated to using linguistics as a strategic tool to bring about change. Since 2016, I have been working as a research assistant, and since 2022, I have been a postdoctoral research associate. My work focuses on addressing the climate crisis by promoting new stories-to-live-by and using my academic platform to amplify the voices of marginalised communities.</p>
 <p>I thrive in interdisciplinary contexts where I aim to share my passion for linguistics while learning and opening my mind to other perspectives through knowledge exchange. This applies to both theory and methods. My expertise lies in qualitative methods, which more recently include co-creation and creative methods, but I strive for holistic approaches that combine qualitative methods with quantitative ones.</p>
 <p>I am deeply committed to the social cause of language endangerment and advocate for environmental justice through this lens. As a proud first-generation scholar, I am passionate about equality and driven by a desire to contribute to a better world for all living beings.</p>
+<p>My first monograph <em>Ecolinguistics and Endangered Languages. Emplacing ecological wisdom through language revitalisation</em> is due in 2027. These are some of the comments received from reviewers:</p>
+<p>“This is a book that could advance understanding about some of the ways in which language frames and influences our attitudes to and behaviours towards environments. It employs cultural artifacts to demonstrate some of the ways in which ecological knowledge is grounded in one’s local connection to land and the cultural identity associated with that connection. Based on my own curiosity about the proposed chapters, the proposal looks worthy of pursuing for publication. Additionally, it offers a unique contribution in the integration of “cultural artifacts—recipes, art, and poems” to complement the scholarly and theoretical framings detailing examples of language endangerment and how that can affect climate-related awareness and sustainable activities.”</p>
+<p>“This is a great idea, I welcome it. I think the proposal is well balanced and comprehensive, addressing more than one audience with different interests across environmental studies, literature, language (including TEFL) and linguistics itself. Both research and teaching aspects of language loss and diversity are addressed here.”</p>
 </section>
 <section id="employment" class="level2">
 <h2 data-anchor-id="employment">Employment</h2>
@@ -217,18 +220,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -260,7 +252,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -268,7 +282,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {

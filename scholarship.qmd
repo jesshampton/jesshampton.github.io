@@ -1,12 +1,21 @@
 ---
 title: "Research & Scholarship"
 ---
+::: {.callout-important title="Borderscapes Project" icon=false}
+
+This is an AHRC funded project running from February 2024 to January 2025. I am the PDRA on Borderscapes, working alongside Prof Stefania Tufi (PI), Wendy O'Neill (RA), Emily Kearon-Warrilow (RA), our undegraduate research assistants, as well as the teachers and students at the four schools we've been collaborating with. <https://www.liverpool.ac.uk/languages-cultures-and-film/research/projects/borderscapes/>
+
+As part of the project, students created their own piece of art (such as a drawing or a poem) depicting their environmental/cultural identity. These are showcased on our dedicated website created and curated by our wonderful Emily:
+<https://borderscapes4.wixsite.com/digitalexhibition>
+:::
 
 ::: {.callout-important title="EU Migrants Project" icon=false}
 
 Since 2019, I have been working as a Research Assistant on this timely project led by Caterina Guardamagna at the University of Liverpool. We are a small, interdisciplinary team that also includes Djordje Sredanovic from the University of Chester and Mariana Roccia from the University of Gloucestershire and the International Ecolinguistics Association.
 
 As part of this ongoing project, we interviewed around 40 Italian and Spanish academics based in the North West of England, merging our dataset with Djordje's to understand their migratory experience from a discursive perspective. Outputs include three articles (one in press at the time of writing and two ready to be submitted) and a symposium, whose proceedings are being prepared for a Special Issue and an edited volume.
+
+More about our work can be found on our website <https://www.eumigrants.co.uk>
 
 :::
 

@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.555">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Jessica Hampton - Research &amp; Scholarship</title>
+<title>Research &amp; Scholarship – Jessica Hampton</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -110,7 +110,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -119,7 +119,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
     </div>
 <!-- main -->
@@ -144,6 +144,20 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="callout callout-style-default callout-important no-icon callout-titled" title="Borderscapes Project">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Borderscapes Project
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This is an AHRC funded project running from February 2024 to January 2025. I am the PDRA on Borderscapes, working alongside Prof Stefania Tufi (PI), Wendy O’Neill (RA), Emily Kearon-Warrilow (RA), our undegraduate research assistants, as well as the teachers and students at the four schools we’ve been collaborating with. <a href="https://www.liverpool.ac.uk/languages-cultures-and-film/research/projects/borderscapes/" class="uri">https://www.liverpool.ac.uk/languages-cultures-and-film/research/projects/borderscapes/</a></p>
+<p>As part of the project, students created their own piece of art (such as a drawing or a poem) depicting their environmental/cultural identity. These are showcased on our dedicated website created and curated by our wonderful Emily: <a href="https://borderscapes4.wixsite.com/digitalexhibition" class="uri">https://borderscapes4.wixsite.com/digitalexhibition</a></p>
+</div>
+</div>
 <div class="callout callout-style-default callout-important no-icon callout-titled" title="EU Migrants Project">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -156,6 +170,7 @@ EU Migrants Project
 <div class="callout-body-container callout-body">
 <p>Since 2019, I have been working as a Research Assistant on this timely project led by Caterina Guardamagna at the University of Liverpool. We are a small, interdisciplinary team that also includes Djordje Sredanovic from the University of Chester and Mariana Roccia from the University of Gloucestershire and the International Ecolinguistics Association.</p>
 <p>As part of this ongoing project, we interviewed around 40 Italian and Spanish academics based in the North West of England, merging our dataset with Djordje’s to understand their migratory experience from a discursive perspective. Outputs include three articles (one in press at the time of writing and two ready to be submitted) and a symposium, whose proceedings are being prepared for a Special Issue and an edited volume.</p>
+<p>More about our work can be found on our website <a href="https://www.eumigrants.co.uk" class="uri">https://www.eumigrants.co.uk</a></p>
 </div>
 </div>
 <div class="callout callout-style-default callout-important no-icon callout-titled" title="Polentometro Project">
@@ -245,18 +260,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -288,7 +292,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -296,7 +322,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
