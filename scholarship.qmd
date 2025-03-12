@@ -1,6 +1,17 @@
 ---
 title: "Research & Scholarship"
 ---
+::: {.callout-important title="The Multilingual Picture Dataset-- MULTIPIC" icon=false}
+
+Project Committe member and collaborator responsible for the Emilian language on this BA funded project led by Dr Christos Pliatsikas, Prof Marco Tamburelli, and Prof Jon Andoni Duñabeitia. 
+
+Starting in April 2025 and running for four years, the project seeks to expand the current dataset by providing naming norms in eight under-represented languages, comprising: Scottish Gaelic, Cornish, Scotts, Alemannic, Lombard, Emilian, Silesian and Kashubian.
+
+<https://research.reading.ac.uk/christos-lab/the-multilingual-picture-dataset-multipic/>
+
+
+:::
+
 ::: {.callout-important title="Borderscapes Project" icon=false}
 
 This is an AHRC funded project running from February 2024 to January 2025. I am the PDRA on Borderscapes, working alongside Prof Stefania Tufi (PI), Wendy O'Neill (RA), Emily Kearon-Warrilow (RA), our undegraduate research assistants, as well as the teachers and students at the four schools we've been collaborating with. <https://www.liverpool.ac.uk/languages-cultures-and-film/research/projects/borderscapes/>
