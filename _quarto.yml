@@ -12,6 +12,7 @@ website:
       - href: events.qmd
       - href: scholarship.qmd
       - href: ecosophy.qmd
+      - href: Teaching.qmd
 
 format:
   html:

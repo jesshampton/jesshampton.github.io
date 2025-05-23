@@ -50,9 +50,17 @@ In this project with Stefano Coretta and Simone De Cia, we are cconduting a firs
 
 :::
 
+::: {.callout-tip title="BAAL RICH SIG" icon=false}
+
+-   Treasurer for BAAL RICH SIG
+
+<https://richsig.wordpress.com>
+:::
+
+
 ::: {.callout-tip title="University Council For Languages" icon=false}
 
--   Representative for Linguistics, Special Interest Group: Early Career Academics
+-   2022-2025 Representative for Linguistics, Special Interest Group: Early Career Academics
 
 <https://university-council-for-languages.org/early-career-academics/>
 :::

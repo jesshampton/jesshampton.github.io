@@ -1,39 +1,113 @@
 ---
 title: "Organised Events"
+editor: 
+  markdown: 
+    wrap: 72
 ---
-::: {.callout-note title="Borderscapes Public Event" icon=false}
-January 2025, University of Liverpool <https://www.liverpool.ac.uk/languages-cultures-and-film/research/projects/borderscapes/>
+::: {.callout-note title="Bayesian Regressions for the Advancement of Linguistics" icon="false"}
+July 2025, University of Liverpool
+
+Funded by Methods North West, this hybrid workshop (40 in-person, 40 online, plus unlimited asynchronous access) introduces Bayesian linear regression models for language research. Designed especially for postgraduate researchers (PGRs) and early career researchers (ECRs), the workshop is open to all levels of expertise and welcomes participants from linguistics and adjacent disciplines.
+
+Bayesian methods offer a powerful alternative to traditional statistical approaches, moving beyond p-values to promote transparency, reproducibility, and richer data interpretation—especially valuable in fields like sociolinguistics, corpus linguistics, and phonetics.
+
+Led by Dr. Stefano Coretta (University of Edinburgh), the workshop includes hands-on guidance, real-world applications, and tailored prep materials to suit your experience level. Whether you’re new to R or looking to deepen your stats knowledge, this workshop provides the tools to build methodological confidence and innovation.
+
+Preparation materials include:
+
+📘 Absolute beginners in R and statistics: Chapters 1–12 of R for Data Science (Open Access at https://r4ds.hadley.nz) and intRo video lectures available at https://intro-rstats.github.io
+
+🎥 Beginners in R but not statistics: Follow the same preparation as above
+
+🧑‍💻 Beginners in statistics but not R: Review the R topics in Chapters 1–12 of R for Data Science (Open Access at https://r4ds.hadley.nz)
+
+For support with R installation and preliminary troubleshooting, you will need to seek assistance through your institution, such as local drop-off clinics. On the day, you can seek clarification on Piazza and during dedicated Q&A sessions.
+
+We look forward to welcoming you to explore how Bayesian models can enhance your research and push the boundaries of linguistic inquiry.
+
+**Role**: Workshop Organiser and Funding applicant
+
+
+:::
+
+::: {.callout-note title="Engagement and Impact for Early Career Academics" icon="false"}
+June 2025, UCFL Special Interest Group Early Career Academics
+
+What is impact, and how can ECAs and PGRs in Modern Languages engage
+with it? What specific challenges do ECAs and PGRs face when working on
+impact, and what can be done to support them?
+
+Join the UCFL Early Career Academics Special Interest Group for an
+online discussion addressing these questions on Monday 16 June,
+10-11:30am.
+
+**Speakers**
+
+Mariana Roccia – Impact consultant (M.R. Language Services)
+
+Prof. Victoria Donovan – Director of Impact in the School of Modern
+Languages (University of St Andrews)
+
+Dr. Ashley Harris – ECA experience of impact (Trinity College Dublin)
+
+**Event structure**
+
+Introduction from each speaker
+
+Themed questions for open discussion
+
+Open Q&A
+
+The discussion will be chaired by Dr. Jessica Hampton (University of
+Liverpool) and Clara Défachel (University of St Andrews).
+
+This event is co-organised by Ashley Harris, Jessica Hampton and Clara
+Défachel on behalf of the UCFL Early Career Academics Special Interest
+Group - more info here:
+https://university-council-for-languages.org/early-career-academics/
+
+**Role**: Co-Organiser
+:::
+
+::: {.callout-note title="Borderscapes Public Event" icon="false"}
+January 2025, University of Liverpool
+<https://www.liverpool.ac.uk/languages-cultures-and-film/research/projects/borderscapes/>
 
 **Role**: Event Co-Organiser
 
 **Tasks**
 
--   Liaised with schools to coordinate dates and understand their requirements.
--   Worked with the widening participation officer at the University of Liverpool to secure funding for school transport.
+-   Liaised with schools to coordinate dates and understand their
+    requirements.
+-   Worked with the widening participation officer at the University of
+    Liverpool to secure funding for school transport.
 -   Researched and selected the event location.
 -   Coordinated catering services.
 
 **Hard Skills**
 
-Event Planning,
-Budget Management,
-Vendor Management,
-Catering Coordination,
-Transport Logistics.
+Event Planning, Budget Management, Vendor Management, Catering
+Coordination, Transport Logistics.
 
 **Soft Skills**
 
-Communication,
-Negotiation,
-Organisation,
-Problem-Solving,
-Attention to Detail.
-
+Communication, Negotiation, Organisation, Problem-Solving, Attention to
+Detail.
 :::
-::: {.callout-note title="Where are you from? From provocation to curiosity, a journey into the experiences of multicultural society" icon=false}
-October 2024, University of Liverpool <https://festivalofsocialscience.com/events/europeans-and-european-culture-in-the-liverpool-city-region/>
 
-Caterina Guardamagna and I co-present a special talk featuring dramatisations by Ivan Fantasia and Pasqualina Romano. These performances represent three key patterns identified in our research on the experiences of EU academics in the UK following Brexit (a study conducted with Mariana Roccia and Djordje Sredanovic). While not exact reproductions, the enactments capture the essence of the themes in our data. The 15-minute talk is part of a public event organised by Steph Connor (doctoral candidate in Sociolinguistics at UoL) and funded by the ESRC Festival of Social Sciences.
+::: {.callout-note title="Where are you from? From provocation to curiosity, a journey into the experiences of multicultural society" icon="false"}
+October 2024, University of Liverpool
+<https://festivalofsocialscience.com/events/europeans-and-european-culture-in-the-liverpool-city-region/>
+
+Caterina Guardamagna and I co-present a special talk featuring
+dramatisations by Ivan Fantasia and Pasqualina Romano. These
+performances represent three key patterns identified in our research on
+the experiences of EU academics in the UK following Brexit (a study
+conducted with Mariana Roccia and Djordje Sredanovic). While not exact
+reproductions, the enactments capture the essence of the themes in our
+data. The 15-minute talk is part of a public event organised by Steph
+Connor (doctoral candidate in Sociolinguistics at UoL) and funded by the
+ESRC Festival of Social Sciences.
 
 Watch the recording of our talk here <https://fb.watch/w6D0S97sm_/>
 
@@ -41,22 +115,21 @@ Watch the recording of our talk here <https://fb.watch/w6D0S97sm_/>
 
 **Tasks and Hard Skills**
 
-- Event Planning and Coordination
-- Organising and presenting a talk within a larger public event and to a non-specialist audience
-- Collaborating on the planning of the dramatisations
+-   Event Planning and Coordination
+-   Organising and presenting a talk within a larger public event and to
+    a non-specialist audience
+-   Collaborating on the planning of the dramatisations
 
 **Soft Skills**
 
-Teamwork and Collaboration,
-Creative Problem-Solving,
-Adaptability,
-Interpersonal Communication,
-Empathy and Cultural Awareness,
-Public Engagement.
+Teamwork and Collaboration, Creative Problem-Solving, Adaptability,
+Interpersonal Communication, Empathy and Cultural Awareness, Public
+Engagement.
 :::
 
-::: {.callout-note title="European Migrants in the UK in the Brexit Era: Discursive Approaches" icon=false}
-June 2024, University of Liverpool <https://www.liverpool.ac.uk/english/news/stories/title,1430884,en.php>
+::: {.callout-note title="European Migrants in the UK in the Brexit Era: Discursive Approaches" icon="false"}
+June 2024, University of Liverpool
+<https://www.liverpool.ac.uk/english/news/stories/title,1430884,en.php>
 
 **Role**: Event Co-Organiser
 
@@ -64,67 +137,78 @@ June 2024, University of Liverpool <https://www.liverpool.ac.uk/english/news/sto
 
 -   Created and managed a dedicated email address for the event.
 -   Co-created and circulated the Call for Papers.
--   Coordinated with the University of Liverpool events team to include the symposium on the university’s website.
--   Communicated with symposium participants to provide updates and information.
+-   Coordinated with the University of Liverpool events team to include
+    the symposium on the university’s website.
+-   Communicated with symposium participants to provide updates and
+    information.
 -   Created and managed the ticketing system for event registration.
 
 **Hard Skills**
 
-Email Management,
-Event Promotion,
-Website Content Management,
-Participant Communication,
-Ticketing and Registration Management.
+Email Management, Event Promotion, Website Content Management,
+Participant Communication, Ticketing and Registration Management.
 
 **Soft Skills**
 
-Written Communication,
-Coordination,
-Organisational Skills,
-Customer Service,
-Time Management.
+Written Communication, Coordination, Organisational Skills, Customer
+Service, Time Management.
 :::
 
-::: {.callout-note title="Application Journey Post-PhD" icon=false}
-June 2023, UCFL Special Interest Group Early Career Academics <https://youtu.be/f-FDq435Dfo>
+::: {.callout-note title="Application Journey Post-PhD" icon="false"}
+June 2023, UCFL Special Interest Group Early Career Academics
+<https://youtu.be/f-FDq435Dfo>
 
-The University Council for Languages (UCFL) is excited to announce an online careers event tailored specifically to early career academics in Modern Languages and Linguistics. Whether you're considering academic positions or seeking alternative career paths, this workshop will provide valuable application tips and insights about job markets in academia and beyond. The event will cover topics including how to target your job search, tips for targeting your application to specific vacancies, and the diverse career possibilities available beyond traditional academic positions. Our panel includes academics Dr Jonathan Ervine (Bangor University), Dr Benjamin Dalton (Lancaster University) and Dr Nicola Thomas (Lancaster University), and careers consultant Diane Caldwell (University of Cambridge).
+The University Council for Languages (UCFL) is excited to announce an
+online careers event tailored specifically to early career academics in
+Modern Languages and Linguistics. Whether you're considering academic
+positions or seeking alternative career paths, this workshop will
+provide valuable application tips and insights about job markets in
+academia and beyond. The event will cover topics including how to target
+your job search, tips for targeting your application to specific
+vacancies, and the diverse career possibilities available beyond
+traditional academic positions. Our panel includes academics Dr Jonathan
+Ervine (Bangor University), Dr Benjamin Dalton (Lancaster University)
+and Dr Nicola Thomas (Lancaster University), and careers consultant
+Diane Caldwell (University of Cambridge).
 
 **Role**: Co-Organiser
 
 **Tasks**
 
 -   Co-led a team and delegated tasks to team members.
--   Co-organised the event, including the creation of the programme and scheduling.
+-   Co-organised the event, including the creation of the programme and
+    scheduling.
 -   Managed communications related to the event.
 -   Sourced and coordinated with speakers.
 -   Recorded and uploaded event videos on YouTube.
--   Disseminated information about the event both before and after it occurred.
+-   Disseminated information about the event both before and after it
+    occurred.
 
 **Hard Skills**
 
-Team Leadership,
-Program Development,
-Scheduling,
-Video Production and Management on YouTube,
-Event Promotion.
+Team Leadership, Program Development, Scheduling, Video Production and
+Management on YouTube, Event Promotion.
 
 **Soft Skills**
 
-Teamwork,
-Delegation,
-Organisational Skills,
-Communication,
-Strategic Planning,
-Networking (sourcing speakers).
+Teamwork, Delegation, Organisational Skills, Communication, Strategic
+Planning, Networking (sourcing speakers).
 :::
 
-::: {.callout-note title="IntRo to data visualisation in R for SHAPE disciplines" icon=false}
-October 2022, University of Liverpool 
+::: {.callout-note title="IntRo to data visualisation in R for SHAPE disciplines" icon="false"}
+October 2022, University of Liverpool
 
-A free online course funded by "Methodological Innovation and Development Award Scheme (MIDAS)", led by Dr Stefano Coretta, University of Edinburgh <https://intro-rstats.github.io>
+A free online course funded by "Methodological Innovation and
+Development Award Scheme (MIDAS)", led by Dr Stefano Coretta, University
+of Edinburgh <https://intro-rstats.github.io>
 
-The past two decades have seen a dramatic increase in availability of data, which has expanded the range of phenomena that can be investigated. The Humanities and Social Sciences can now benefit from such an abundance of data and integrate qualitative and quantitative methods. This workshop introduces absolute beginners to computational principles and tools of data visualisation, processing, and exploration with the statistical software R.
+The past two decades have seen a dramatic increase in availability of
+data, which has expanded the range of phenomena that can be
+investigated. The Humanities and Social Sciences can now benefit from
+such an abundance of data and integrate qualitative and quantitative
+methods. This workshop introduces absolute beginners to computational
+principles and tools of data visualisation, processing, and exploration
+with the statistical software R.
 
 **Role**: Workshop Organiser
 
@@ -137,24 +221,25 @@ The past two decades have seen a dramatic increase in availability of data, whic
 
 **Hard Skills**
 
-Grant Writing and Funding Application,
-Vendor Management (sourcing workshop lead),
-Event Promotion.
+Grant Writing and Funding Application, Vendor Management (sourcing
+workshop lead), Event Promotion.
 
 **Soft Skills**
 
-Communication (liaising with funding officer),
-Networking,
-Project Management,
-Coordination,
-Planning and Organisation.
+Communication (liaising with funding officer), Networking, Project
+Management, Coordination, Planning and Organisation.
 :::
 
-::: {.callout-note title="5th International Conference of Ecolinguistics. *Ecolinguistics in Action: Tackling Real-World Issues*" icon=false}
-April 2021, University of Liverpool <https://ice5.org> 
+::: {.callout-note title="5th International Conference of Ecolinguistics. *Ecolinguistics in Action: Tackling Real-World Issues*" icon="false"}
+April 2021, University of Liverpool <https://ice5.org>
 
-
-The conference aims to create a dynamic and stimulating space for discussions and sharing of knowledge from across all relevant disciplines in an attempt to engage academics with different perspectives and ideas on how to use ecolinguistic research to bring about change. Ecolinguistics explores the role of language in the life-sustaining interactions of humans, other species and the physical environment.
+The conference aims to create a dynamic and stimulating space for
+discussions and sharing of knowledge from across all relevant
+disciplines in an attempt to engage academics with different
+perspectives and ideas on how to use ecolinguistic research to bring
+about change. Ecolinguistics explores the role of language in the
+life-sustaining interactions of humans, other species and the physical
+environment.
 
 **Role**: Conference Organiser and Chair
 
@@ -162,27 +247,22 @@ The conference aims to create a dynamic and stimulating space for discussions an
 
 -   Volunteered to organise and run the conference.
 -   Assembled and led a small team to assist with conference tasks.
--   Managed all aspects of running an online conference, from planning to execution.
+-   Managed all aspects of running an online conference, from planning
+    to execution.
 -   Secured funding for a public event featuring non-academic speakers.
--   Obtained funding to run free public workshops related to the conference themes.
+-   Obtained funding to run free public workshops related to the
+    conference themes.
 -   Curating conference website.
 -   Chaired conference sessions and facilitated discussions.
 
 **Hard Skills**
 
-Conference Planning and Execution,
-Team Leadership,
-Funding Acquisition,
-Website Management,
-Event Chairing.
+Conference Planning and Execution, Team Leadership, Funding Acquisition,
+Website Management, Event Chairing.
 
 **Soft Skills**
 
-Leadership,
-Team Building and Management,
-Project Management,
-Communication,
-Problem-Solving,
-Public Speaking (chairing sessions),
+Leadership, Team Building and Management, Project Management,
+Communication, Problem-Solving, Public Speaking (chairing sessions),
 Networking.
 :::
