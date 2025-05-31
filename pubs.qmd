@@ -40,6 +40,8 @@ title: "Publications & Talks"
 
 -   Tufi, S. & **Hampton, J.** (2026) Borderscapes - The de/construction of borders as an everyday practice, Issue 3, Vol 47. *Journal of Intercultural Studies.*
 
+-   Guardamagna, C., **Hampton, J.**, Roccia, M. & Sredanovic, D. (forthcoming) Navigating Language, Identity and Belonging: Migration Experiences in Post-Brexit Europe. *Modern Languages Open*
+
 ### Invited Talks
 
 -   October 2025 — University of Vienna, Austria: **Into the In-Between: towards a methodology for exploring the transformative potential of Indigenous language concepts for decolonising Linguistic Landscape studies** <https://wsg.univie.ac.at/veranstaltungen/jessica-hampton-into-the-in-between-towards-a-methodology-for-exploring-the-transformative-potential-of-indigenous-language-concepts-for-decolonising-linguistic-landscape-studies/?mc_id=61>
@@ -62,7 +64,7 @@ title: "Publications & Talks"
 
 -   June 2025 — SIEF 2025, Aberdeen: **Into the In-Between: towards a methodology for exploring the transformative potential of Indigenous language concepts for decolonising Linguistic Landscape studies** <https://www.siefhome.org/congresses/sief2025/programme#timetable>
 
--   May 2025 — Postgraduates' and Fellows' St Catharine's Day seminar, University of Cambridge: **Decolonising Linguistic Landscape Studies** [{{< fa cloud-arrow-down >}}](files/stcat.jpg)
+-   May 2025 — Postgraduates' and Fellows' St Catharine's Day seminar, University of Cambridge: **Decolonising Linguistic Landscape Studies** Slides available at <https://osf.io/pnfby/> [{{< fa cloud-arrow-down >}}](files/stcat.jpg)
 
 -   May 2025 — Languages, Objects and Homes:Transnational Communities in Borderscapes, University of Liverpool: **Deviance and Belonging: Transgressing the Borders of Italianness in Migration** [{{< fa cloud-arrow-down >}}](files/borderscapes.pdf)
 
