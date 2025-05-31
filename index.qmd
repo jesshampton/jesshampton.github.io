@@ -2,7 +2,7 @@
 title: "Jessica Hampton"
 about:
   template: trestles
-  image: "img/avatar.jpeg"
+  image: "img/me-tree.jpg"
   image-width: 250px
 ---
 ## Profile
