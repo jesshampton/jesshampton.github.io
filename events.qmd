@@ -1,9 +1,24 @@
 ---
-title: "Organised Events"
+title: "Organised and Chaired Events"
 editor: 
   markdown: 
     wrap: 72
 ---
+
+::: {.callout-note title="In Conversation with John Ironmonger" icon="false"}
+October 2025, Liverpool Literary Festival
+
+For this session of the Liverpool Literary Festival, I had the privilege of discussing The Wager and the Bear and, more widely, fiction writing for the climate crisis with John Ironmonger.
+
+"John Ironmonger’s debut novel, The Notable Brain of Maximilian Ponder, was shortlisted for the Costa First Novel Award, and his third, Not Forgetting the Whale - also published as The Whale at the End of the World - was a number one international bestseller. John – who has a PhD in Zoology from this University - will join us to talk about writing about the climate crisis -  the biggest story of our time -  and its associated pitfalls. His novels often feature issues of environmental concern, including his most recent novel The Wager and the Bear, which tells the story of a dangerous wager and the slow collapse of the global climate." 
+
+<https://www.liverpool.ac.uk/literary-festival/events-2025/john-ironmonger/>
+
+**Role**: Chair
+:::
+
+
+
 ::: {.callout-note title="Bayesian Regressions for the Advancement of Linguistics" icon="false"}
 July 2025, University of Liverpool
 

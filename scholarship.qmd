@@ -2,6 +2,16 @@
 title: "Research & Scholarship"
 ---
 
+::: {.callout-important title="Lighbulb Moments Exhibition" icon=false}
+
+I was invited to contribute to this exciting exhibition for the University of Liverpool’s Victoria Gallery & Museum (VG&M) which celebrates some of the great ideas connected to the city of Liverpool. After visiting the Sydney Jones Special Collections & Archives, teaching materials for Esperanto and travel guides in Esperanto were selected to be displayed in the exhibition alongside a note on how research on this language can help us understand more about revitalising minoritised languages such as Emilian.
+
+Read more about this exhibition here:
+<https://news.liverpool.ac.uk/2025/07/10/tate-hall-reopens-with-a-new-exhibition-exploring-where-great-ideas-come-from/>
+
+
+:::
+
 ::: {.callout-important title="Policy Change" icon=false}
 
 Through ongoing collaborations with the Management School at the University of Liverpool, I helped steer Government guidance on how UK businesses should report
