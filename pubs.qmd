@@ -2,27 +2,25 @@
 title: "Publications & Talks"
 ---
 
-### Publications
+### Publications: Journal Articles and Monographs
 
--   Hampton, J. (due 2027) **Ecolinguistics and Endangered Languages. Emplacing ecological wisdom through language revitalisation**. A monograph due to feature in Bloomsbury Advances in Ecolinguistics. <https://www.bloomsbury.com/uk/series/bloomsbury-advances-in-ecolinguistics/>
+-   Hampton, J. (due 2027).  **Ecolinguistics and Endangered Languages. Emplacing ecological wisdom through language revitalisation**. A monograph due to feature in Bloomsbury Advances in Ecolinguistics. <https://www.bloomsbury.com/uk/series/bloomsbury-advances-in-ecolinguistics/>
 
--   **Hampton, J.** & Buckingham, D. (2026) '**Redefining language, identity, and heritage through an ecolinguistic lens.'** In R.Poole, D. F. Virdis, **J.** **Hampton**, & A. Ghorbanpour (eds.), *The Bloomsbury Handbook of Ecolinguistics***.** Bloomsbury.
+-   Hampton, J. (under review). **Unbordering Schoolscapes of Belonging with Multimodal Ecolinguistics.** Linguistic Landscape.
 
--   Poole, R., Virdis, D. F., **Hampton, J**. & Ghorbanpour, A. (eds.) (2026) **The Bloomsbury Handbook of Ecolinguistics.** Bloomsbury.
+-   Etheridge M., Smith M., Abel L., Ciampi L., **Hampton J.** et al. (under review) **What did they expect? The affective, relational and structural dimensions of “good” research culture in postdoctoral supervision.** Higher Education.
 
--   Etheridge M, **Hampton J**, Ioppolo B et al. (2025) **'What seems to be missing is actual reality’ Why are postdocs (and closely related researchers) hesitant to engage with non-research-focused professional development** opportunities? F1000Research, 13:717 (<https://doi.org/10.12688/f1000research.151211.2)>
+-   **Hampton, J.** & Coretta, S. (under review). **Beyond the horizon a more-than-human and holistic approach to language.** Language & Ecology.
 
 -   Coretta, S., De Cia, S. & **Hampton, J.** (2025) **A vitality assessment of Gallo-Romance of Northern Italy.** Pre-print available at <https://osf.io/fuzby_v1/>
 
+-   Etheridge, M., **Hampton, J.**, Ioppolo, R., et al. (2025) **'What seems to be missing is actual reality’ Why are postdocs (and closely related researchers) hesitant to engage with non-research-focused professional development** opportunities? F1000Research, 13:717 (<https://doi.org/10.12688/f1000research.151211.2)>
+
 -   Guardamagna, C., **Hampton, J.**, Roccia, M. & Sredanovic, D. (2025) **“Where are you from?”: re-examining national identity and microaggressions in context.** Modern Languages Open. Pre-print available at <https://doi.org/10.31219/osf.io/8dmrg_v1>
 
--   Hampton, J. (2025) **‘From global connections to local roots: exploring language ideologies in Emilian and Esperanto for language revitalisation.’** In A. Ajšić & R. Vessey (eds.), *Current Approaches to Language Ideology and Metalinguistic Discourse*. Routledge. <https://doi-org.liverpool.idm.oclc.org/10.4324/9781003488910>
-
--   Hampton, J. (2025) Ó Ceallaigh, Ben (2022): **Neoliberalism and Language Shift. Lessons from the Republic of Ireland Post-2008**. De Gruyer. 278 p. Sociolinguistic Studies. \[Book review\]
+-   Guardamagna, C., **Hampton, J.**, Roccia, M. & Sredanovic, D. (2024) **Microagressions and Impoliteness at the crossroad: EU academics in the UK facing hostility in the Brexit age**. Journal of Language Aggression and Conflict. <https://doi.org/10.1075/jlac.00113.gua>
 
 -   **Hampton, J.** & Coretta, S. (2024) **Language practices of Emilian and Esperanto communities: spaces of use, explicit language attitudes and self-reported competence**. Journal of Multilingual and Multicultural Development, 1–26. <https://doi.org/10.1080/01434632.2024.2413933>
-
--   Guardamagna, C., **Hampton, J.**, Roccia, M. & Sredanovic, D. (2024) **Microagressions and Impoliteness at the crossroad: EU academics in the UK facing hostility in the Brexit age**. Journal of Language Aggression and Conflict. <https://doi.org/10.1075/jlac.00113.gua>
 
 -   Ioppolo, R., **Hampton, J.**, Abel, L., Etheridge & M., Tal-Perry, N. (2024). **Exploring the use of Resume for Research and Innovation Narrative CVs in live postdoc recruitments**. <https://doi.org/10.17605/OSF.IO/GWA9R>
 
@@ -30,23 +28,56 @@ title: "Publications & Talks"
 
 -   Hampton, J. (2023). **Measuring attitudes: Adopting triangulation as an attempt to square the circle. Swipe up for more**. Modern Languages Open. <http://dx.doi.org/10.3828/mlo.v0i0.450>
 
--   Hampton, J. (2023). Devilla, Lorenzo and Galiñanes Gallén, Marta (eds.) (2021): **Lingue minori e turismo. Aspetti linguistici, sociolinguistici e territoriali** \[Minority languages and tourism. Linguistic, sociolinguistic and territorial aspects\]. Cagliari: Arkadia. 128 p. Sociolinguistica, vol. 37, no. 1, 2023, pp. 115-144. \[Book review\]. <https://doi.org/10.1515/soci-2023-0001>
-
 -   Hampton, J. (2022). **Telling stories of the local natural world: a path of reconnection with language and place in the Emilian context**. Journal of World Languages. <https://doi.org/10.1515/jwl-2022-0006>
 
 -   Roccia, M. & **Hampton, J.** (2021). **The Stories We Live By and the stories we won't stand by: Measuring the impact of a free online course in ecolinguistics**. Journal of World Languages, 7(1), 58-79. <https://doi.org/10.1515/jwl-2021-0004>
 
 -   De Cia, S. & **Hampton, J.** (2020). **Debunking Rhaeto-Romance: Synchronic Evidence from Two Peripheral Northern Italian Dialects**. Modern Languages Open, 7 pp. 1-18. DOI: <https://doi.org/10.3828/mlo.v0i0.309>
 
-### Edited Special Issues
 
--   Tufi, S. & **Hampton, J.** (2026) Borderscapes - The de/construction of borders as an everyday practice, Issue 3, Vol 47. *Journal of Intercultural Studies.*
+### Publications: Chapters 
 
--   Guardamagna, C., **Hampton, J.**, Roccia, M. & Sredanovic, D. (forthcoming) Navigating Language, Identity and Belonging: Migration Experiences in Post-Brexit Europe. *Modern Languages Open*
+-   Guardamagna, C., **Hampton, J.**, Roccia, M. & Sredanovic, D.  (forthcoming). **From Eurostars to Embedded Lives: Italian Academics in the UK in the Brexit Era and their Family Ties.** In C. Guardamagna, J. Hampton, M. Roccia & D. Sredanovic (eds.), *EUropean Migrants in the UK in the Brexit Era: Discursive Perspectives*. Routledge.
+
+-   **Hampton, J.** & Tufi, S. (in press). **Centring peripherality as cultural resilience: Crisis, Trauma and the Linguistic Landscape of Speech Communities in Emilia Romagna.** In D. Lloyd & E. Tangham (eds.), *Apocalyptic Ecolinguistics: Language, Landscape, and Ecoanxiety in the Age of Ecological Crisis.* Bloomsbury.
+
+-   **Hampton, J.** & Venkataraman, N. (under review). **Walking Tour as Co-Constructed Econarratives of Refuge.** Routledge.
+
+-   **Hampton, J.** & Buckingham, D. (2026) **Redefining language, identity, and heritage through an ecolinguistic lens.** In R.Poole, D. F. Virdis, **J.** **Hampton**, & A. Ghorbanpour (eds.), *The Bloomsbury Handbook of Ecolinguistics***.** Bloomsbury.
+
+-   Hampton, J. (2025) **From global connections to local roots: exploring language ideologies in Emilian and Esperanto for language revitalisation.** In A. Ajšić & R. Vessey (eds.), *Current Approaches to Language Ideology and Metalinguistic Discourse*. Routledge. <https://doi-org.liverpool.idm.oclc.org/10.4324/9781003488910>
+
+
+### Publications: as Editor
+
+-   Guardamagna, C., **Hampton, J.**, Roccia, M. & Sredanovic, D. (eds.) (forthcoming). **EUropean Migrants in the UK in the Brexit Era: Discursive Perspectives**. Routledge.
+
+-   Poole, R., Virdis, D. F., **Hampton, J**. & Ghorbanpour, A. (eds.) (2026) **The Bloomsbury Handbook of Ecolinguistics.** Bloomsbury.
+
+-   Guardamagna, C., **Hampton, J.**, Roccia, M. & Sredanovic, D. (2026) **Navigating Language, Identity and Belonging: Migration Experiences in Post-Brexit Europe** (Special Issue). Modern Languages Open.
+
+-   Tufi, S. & **Hampton, J.** (2026) **Borderscapes - The de/construction of borders as an everyday practice**, (Special Issue) Issue 3, Vol 47. Journal of Intercultural Studies.
+
+
+### Publications: Book Reviews
+
+-   Hampton, J. (2026) Ó Ceallaigh, Ben (2022): **Neoliberalism and Language Shift. Lessons from the Republic of Ireland Post-2008**. De Gruyer. 278 p. Sociolinguistic Studies.
+
+-   Hampton, J. (2023). Devilla, Lorenzo and Galiñanes Gallén, Marta (eds.) (2021): **Lingue minori e turismo. Aspetti linguistici, sociolinguistici e territoriali** \[Minority languages and tourism. Linguistic, sociolinguistic and territorial aspects\]. Cagliari: Arkadia. 128 p. Sociolinguistica, vol. 37, no. 1, 2023, pp. 115-144. <https://doi.org/10.1515/soci-2023-0001>
+
+
+### Work in Progress
+
+-   Guardamagna, C. & **Hampton, J.** Culinary Transgression and Identity: towards a socio-semiotic framework of symbolic bordering.
+
+-   **Hampton, J.** & Guardamagna, C. Everyday Bordering Practices Among Italian Academic Migrants in the UK: breaking spaghetti and remaking Italianness. 
+
 
 ### Invited Talks
 
--   November 2025 — University College Dublin: **Endangered Languages in Times of Crisis: The Materialisations of Emilian in Landscapes of Trauma and Erasure** Download the poster [{{< fa cloud-arrow-down >}}](files/UCD.pdf) Download the slides [{{< fa cloud-arrow-down >}}](files/UCDpres.pptx)
+-   February 2026 - The University of Alabama: **Redefining language, identity, and heritage through an ecolinguistic lens.** Language and Ecology in the Anthropocene: A Symposium on Ecolinguistics. Download the slides [{{< fa cloud-arrow-down >}}](files/Alabama.pptx)
+
+-   November 2025 — University College Dublin: **Endangered Languages in Times of Crisis: The Materialisations of Emilian in Landscapes of Trauma and Erasure.** Download the poster [{{< fa cloud-arrow-down >}}](files/UCD.pdf) Download the slides [{{< fa cloud-arrow-down >}}](files/UCDpres.pptx)
 
 
     Funded by SIS Networking Scheme <https://italianstudies.org.uk/current-research/post-doctoral-research/>
@@ -89,7 +120,16 @@ title: "Publications & Talks"
 
 -   March 2022 -- University of Edinburgh: **Invited lecture on diary as a research method**.
 
+
 ### Talks
+
+-   August 2026 - ESSE 2026, Santiago de Compostela, Spain: **Multiple and Contested Narratives of environmental crisis: Regressive Erosion on the Coca River in the Ecuadorian Amazon.**
+
+-   July 2026 - ICE-8, Rennes, France: **A Language in Crisis, a Language for Crisis: Econarratives of Healing and Revitalisation of Gallo-Romance of Northern Italy.**
+
+-   July 2026 - CELC 12, University of Cambridge: **A Language in Crisis, a Language for Crisis: Econarratives of Healing and Revitalisation of Gallo-Romance of Northern Italy.**
+
+-   June 2026 - ISFNR, Iceland: **Econarratives of Identity.** [Chairing panels and presenting]
 
 -   September 2025 — AMLI 2025, Hope University, Liverpool: **Deviance and Belonging: Transgressing the Borders of Italianness in Migration** <https://store.hope.ac.uk/conferences-and-events/faculty-of-creative-arts-and-humanities/events/approaches-to-migration-language-and-identity-conference-2025> [{{< fa cloud-arrow-down >}}](files/AMLI2025.pptx)
 

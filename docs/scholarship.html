@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,14 +32,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-0a89bf0cf7aa0ce8c7ce6fb99854ade3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-1ac49dc45d461ba7e3f4755605d38e4c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -155,7 +156,7 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Lighbulb Moments Exhibition
+<span class="screen-reader-only">Important</span>Lighbulb Moments Exhibition
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -169,7 +170,7 @@ Lighbulb Moments Exhibition
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Policy Change
+<span class="screen-reader-only">Important</span>Policy Change
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -183,7 +184,7 @@ Policy Change
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-The Multilingual Picture Dataset– MULTIPIC
+<span class="screen-reader-only">Important</span>The Multilingual Picture Dataset– MULTIPIC
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -198,7 +199,7 @@ The Multilingual Picture Dataset– MULTIPIC
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Borderscapes Project
+<span class="screen-reader-only">Important</span>Borderscapes Project
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -212,7 +213,7 @@ Borderscapes Project
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-EU Migrants Project
+<span class="screen-reader-only">Important</span>EU Migrants Project
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -227,11 +228,11 @@ EU Migrants Project
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Polentometro Project
+<span class="screen-reader-only">Important</span>Polentometro Project
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>In this project with Stefano Coretta and Simone De Cia, we are cconduting a first-of-its-kind survey of the vitality of the languages spoken in the north of Italy.</p>
+<p>In this project with Stefano Coretta and Simone De Cia, we conducted a first-of-its-kind survey of the vitality of the languages spoken in the north of Italy.</p>
 <p><a href="https://www.soscisurvey.de/polentometro/" class="uri">https://www.soscisurvey.de/polentometro/</a></p>
 </div>
 </div>
@@ -241,7 +242,7 @@ Polentometro Project
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-International Ecolinguistics Association
+<span class="screen-reader-only">Tip</span>International Ecolinguistics Association
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -259,7 +260,7 @@ International Ecolinguistics Association
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-BAAL RICH SIG
+<span class="screen-reader-only">Tip</span>BAAL RICH SIG
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -275,7 +276,7 @@ BAAL RICH SIG
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-University Council For Languages
+<span class="screen-reader-only">Tip</span>University Council For Languages
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -340,13 +341,14 @@ University Council For Languages
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

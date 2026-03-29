@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,14 +32,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-0a89bf0cf7aa0ce8c7ce6fb99854ade3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-1ac49dc45d461ba7e3f4755605d38e4c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -155,7 +156,7 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-In Conversation with John Ironmonger
+<span class="screen-reader-only">Note</span>In Conversation with John Ironmonger
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -172,7 +173,7 @@ In Conversation with John Ironmonger
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Bayesian Regressions for the Advancement of Linguistics
+<span class="screen-reader-only">Note</span>Bayesian Regressions for the Advancement of Linguistics
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -195,7 +196,7 @@ Bayesian Regressions for the Advancement of Linguistics
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Engagement and Impact for Early Career Academics
+<span class="screen-reader-only">Note</span>Engagement and Impact for Early Career Academics
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -221,7 +222,7 @@ Engagement and Impact for Early Career Academics
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Borderscapes Public Event
+<span class="screen-reader-only">Note</span>Borderscapes Public Event
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -246,7 +247,7 @@ Borderscapes Public Event
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Where are you from? From provocation to curiosity, a journey into the experiences of multicultural society
+<span class="screen-reader-only">Note</span>Where are you from? From provocation to curiosity, a journey into the experiences of multicultural society
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -270,7 +271,7 @@ Where are you from? From provocation to curiosity, a journey into the experience
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-European Migrants in the UK in the Brexit Era: Discursive Approaches
+<span class="screen-reader-only">Note</span>European Migrants in the UK in the Brexit Era: Discursive Approaches
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -296,7 +297,7 @@ European Migrants in the UK in the Brexit Era: Discursive Approaches
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Application Journey Post-PhD
+<span class="screen-reader-only">Note</span>Application Journey Post-PhD
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -324,7 +325,7 @@ Application Journey Post-PhD
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-IntRo to data visualisation in R for SHAPE disciplines
+<span class="screen-reader-only">Note</span>IntRo to data visualisation in R for SHAPE disciplines
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -351,7 +352,7 @@ IntRo to data visualisation in R for SHAPE disciplines
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-5th International Conference of Ecolinguistics. <em>Ecolinguistics in Action: Tackling Real-World Issues</em>
+<span class="screen-reader-only">Note</span>5th International Conference of Ecolinguistics. <em>Ecolinguistics in Action: Tackling Real-World Issues</em>
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -429,13 +430,14 @@ IntRo to data visualisation in R for SHAPE disciplines
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
