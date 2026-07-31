@@ -37,24 +37,24 @@ title: "Publications & Talks"
 
 ### Publications: Chapters 
 
--   Guardamagna, C., **Hampton, J.**, Roccia, M. & Sredanovic, D.  (forthcoming). **From Eurostars to Embedded Lives: Italian Academics in the UK in the Brexit Era and their Family Ties.** In C. Guardamagna, J. Hampton, M. Roccia & D. Sredanovic (eds.), *EUropean Migrants in the UK in the Brexit Era: Discursive Perspectives*. Routledge.
+-   **Hampton, J.** & Venkataraman, N. (forthcoming). **Walking Tour as Co-Constructed Econarratives of Refuge.** Routledge.
 
--   **Hampton, J.** & Tufi, S. (in press). **Centring peripherality as cultural resilience: Crisis, Trauma and the Linguistic Landscape of Speech Communities in Emilia Romagna.** In D. Lloyd & E. Tangham (eds.), *Apocalyptic Ecolinguistics: Language, Landscape, and Ecoanxiety in the Age of Ecological Crisis.* Bloomsbury.
-
--   **Hampton, J.** & Venkataraman, N. (under review). **Walking Tour as Co-Constructed Econarratives of Refuge.** Routledge.
+-   Guardamagna, C., **Hampton, J.**, Roccia, M. & Sredanovic, D.  (2026). **From Eurostars to Embedded Lives: Italian Academics in the UK in the Brexit Era and their Family Ties.** In C. Guardamagna, J. Hampton, M. Roccia & D. Sredanovic (eds.), *EUropean Migrants in the UK in the Brexit Era: Discursive Perspectives*. Routledge.
 
 -   **Hampton, J.** & Buckingham, D. (2026) **Redefining language, identity, and heritage through an ecolinguistic lens.** In R.Poole, D. F. Virdis, **J.** **Hampton**, & A. Ghorbanpour (eds.), *The Bloomsbury Handbook of Ecolinguistics***.** Bloomsbury.
+
+-   **Hampton, J.** & Tufi, S. (2026). **Centring peripherality as cultural resilience: Crisis, Trauma and the Linguistic Landscape of Speech Communities in Emilia Romagna.** In D. Lloyd & E. Tangham (eds.), *Apocalyptic Ecolinguistics: Language, Landscape, and Ecoanxiety in the Age of Ecological Crisis.* Bloomsbury.
 
 -   Hampton, J. (2025) **From global connections to local roots: exploring language ideologies in Emilian and Esperanto for language revitalisation.** In A. Ajšić & R. Vessey (eds.), *Current Approaches to Language Ideology and Metalinguistic Discourse*. Routledge. <https://doi-org.liverpool.idm.oclc.org/10.4324/9781003488910>
 
 
 ### Publications: as Editor
 
--   Guardamagna, C., **Hampton, J.**, Roccia, M. & Sredanovic, D. (eds.) (forthcoming). **EUropean Migrants in the UK in the Brexit Era: Discursive Perspectives**. Routledge.
-
--   Poole, R., Virdis, D. F., **Hampton, J**. & Ghorbanpour, A. (eds.) (2026) **The Bloomsbury Handbook of Ecolinguistics.** Bloomsbury.
+-   Guardamagna, C., **Hampton, J.**, Roccia, M. & Sredanovic, D. (eds.) (2026). **EUropean Migrants in the UK in the Brexit Era: Discursive Perspectives**. Routledge. <https://www.routledge.com/European-Migrants-in-the-UK-in-the-Brexit-Era-Discursive-Perspectives/Guardamagna-Hampton-Roccia-Sredanovic/p/book/9781041046318>
 
 -   Guardamagna, C., **Hampton, J.**, Roccia, M. & Sredanovic, D. (2026) **Navigating Language, Identity and Belonging: Migration Experiences in Post-Brexit Europe** (Special Issue). Modern Languages Open.
+
+-   Poole, R., Virdis, D. F., **Hampton, J**. & Ghorbanpour, A. (eds.) (2026) **The Bloomsbury Handbook of Ecolinguistics.** Bloomsbury. <https://www.bloomsbury.com/uk/bloomsbury-handbook-of-ecolinguistics-9781350497207/>
 
 -   Tufi, S. & **Hampton, J.** (2026) **Borderscapes – Interdisciplinary and intercultural approaches to the border**, (Special Issue) Issue 3, Vol 47. Journal of Intercultural Studies. <https://doi.org/10.1080/14680629.2026.2658960>
 
@@ -68,9 +68,9 @@ title: "Publications & Talks"
 
 ### Work in Progress
 
--   Guardamagna, C. & **Hampton, J.** Culinary Transgression and Identity: towards a socio-semiotic framework of symbolic bordering.
+-   Guardamagna, C. & **Hampton, J.** (under review) Culinary Transgression and Identity: towards a socio-semiotic framework of symbolic bordering.
 
--   **Hampton, J.** & Guardamagna, C. Everyday Bordering Practices Among Italian Academic Migrants in the UK: breaking spaghetti and remaking Italianness.  
+-    Guardamagna, C. & **Hampton, J.** (under review) Everyday Bordering Practices Among Italian Academic Migrants in the UK: breaking spaghetti and remaking Italianness.  
 
 
 ### Invited Talks
@@ -122,6 +122,8 @@ title: "Publications & Talks"
 
 
 ### Talks
+
+-   September 2026 - RGS Annual Conference "Geographies of inequalities: towards just places", London, UK: **A Language in Crisis, a Language for Crisis: Econarratives of Healing and Revitalisation of Gallo-Romance of Northern Italy.**
 
 -   August 2026 - ESSE 2026, Santiago de Compostela, Spain: **Multiple and Contested Narratives of environmental crisis: Regressive Erosion on the Coca River in the Ecuadorian Amazon.**
 
