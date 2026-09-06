@@ -16,7 +16,7 @@ website:
 
 format:
   html:
-    theme: pulse
+    theme: minty
     css: styles.css
     toc: true
 
