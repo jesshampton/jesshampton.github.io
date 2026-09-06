@@ -4,6 +4,20 @@ editor:
   markdown: 
     wrap: 72
 ---
+::: {.callout-note title="RICH SIG Annual Event 2026" icon="false"}
+June 2026, Online
+
+2nd Annual Event: What’s special about ethics in Applied Linguistics with children
+
+Guest speaker: Dr. Afua Twum-Danso Imoh
+Panel Discussion: Prof Jane Andrews, Prof Annamaria Pinter and Dr. Afua
+Twum-Danso Imoh
+
+<https://richsig.wordpress.com/2026/05/18/2nd-annual-event-whats-special-about-ethics-in-applied-linguistics-with-children/>
+
+**Role**: Co-organiser and Co-Chair
+:::
+
 
 ::: {.callout-note title="In Conversation with John Ironmonger" icon="false"}
 October 2025, Liverpool Literary Festival
